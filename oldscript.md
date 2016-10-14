@@ -18,3 +18,24 @@ First
 On June 22nd the Swift telescope in orbit around Earth detected a burst from the Supernova remnant SNR RCW 10??. The Swift telescope's mission is to detect these kinds of bursts and to do follow up observations of the sources. Its made up of three instruments. First there's the BAT (the Burst Alert Trigger) which looks at about a tenth of the sky triggers on bursts. The purpose of the BAT is mostly to notice when a burst happens and to figure out where it come from. Based on the burst it detected it decides whether or not to turn the telescope around and point the other two instruments at the source. The other two instruments are a X-ray Telescope and a UV/Optical telescope.
 
 urgh this is boring
+
+
+
+
+
+pulsar periods:
+GRO J1744-28	0.467
+SMC X-1	0.717
+Hercules X-1	1.24
+Centaurus X-3 	4.82
+4U 1626-67	7.66
+RX J0648.1-4419	13.2
+LMC X-4	13.5
+OAO 1657-415	37.7
+4U 1728-247 	120
+Vela X-1	283
+1E 1145.1-6141	297
+4U 1907+09	438
+4U 1538-52	530
+GX 301-2	681
+1E 1613	24012
