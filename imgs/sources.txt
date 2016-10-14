@@ -1,2 +1,7 @@
 http://swift.gsfc.nasa.gov/about_swift/bat_images/swift_aperture.jpg
 http://swift.gsfc.nasa.gov/about_swift/bat_images/bat_diagram.jpg
+http://constellation.gsfc.nasa.gov/images/science/XrayOPticsHXI.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/9c/Wolter-types.gif
+http://www.nasa.gov/sites/default/files/images/653972main_pia15631-43_full.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HURA_hexagonal_coded_aperture_mask_principle.svg/768px-HURA_hexagonal_coded_aperture_mask_principle.svg.png
+http://swift.gsfc.nasa.gov/about_swift/bat_images/detector_module.jpg
